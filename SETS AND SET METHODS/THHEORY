@@ -1,0 +1,16 @@
+WHAT IS SET.?
+--> A SET IS A DATA TYPE IN PYTHON USED TO STORE UNIQUE ITEMS IN A SINGLE VARIABLE.
+
+
+SET OPERATION.
+a.union == |
+b.intersection==&
+c.difference==-
+d.symmetrice_difference==^
+
+
+what is fronzenset
+frozenset is an immutable version of a set.once created,items cannot be added or removed.
+  
+  fronzenset does not have add()
+  

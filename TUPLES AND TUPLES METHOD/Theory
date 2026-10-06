@@ -1,0 +1,7 @@
+    What is tuple.?
+    ---> A tuple is a data type in python used to store multiple items in a single variable.
+    A tuple is:
+    order
+    immutable
+    usually written inside parentheses()
+    able to store different data type

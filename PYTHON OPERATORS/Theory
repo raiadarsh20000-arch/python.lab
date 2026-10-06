@@ -1,0 +1,55 @@
+        1.what is world scenario..operators?
+-       --> when you want a total true output to major.you have to enter value because there could different variable ahd different value and to make a good decision we need a accurate data..so to calculate risk or any action that have consequncesis you must have an operator mind.(--:00)
+         OPERATORS IN PYTHON --
+        1.(+)
+        2.(-)
+        3.(*)
+        4.(%,/)
+
+        OPERATOR ARE THE SYMBOLS THAT TELL THE  COMPUTER WHAT TO DO.
+
+2.WHAT ARE TYPES OF OPERATOR.?
+--> PYTHON HAS DIFFERENT TYPES OF OPERATOR.
+        a.Arithmetic operators
+        b.Assignment Operators
+        c.Comparison Operators
+        d.Logical Operators
+        e.Membership Operator
+        f.Bitwise operators
+
+
+        3. order of python.
+        Python follows mathematical order of operations--:
+         
+         Brackets-->Exponent-->Multiplication/Division--> Addition/subtraction
+
+4.what is Assignment Operators.?
+-->Operators that use to assign value to variables.they can also perform an operation and assigin the result back to the variable.
+--> it help to store or update value.
+
+5.what are comparison operators.?
+--> operators that are used to compare two value and return a boolean result.
+            (   TRUE OR FALSE )
+
+6.Logical Operators.?
+--> OPERATOR THAT ARE USED TO COMBINE MULTIPLE CONDITIONS.
+-->LOGICAL OPERATOR HELPS US MAKE DECISIONS USING MULTIPLE CONDITION.
+
+    common logical operator--:
+        AND
+        OR
+        NOT
+7. WHAT IS MEMBERSHIP OPERATOR.?
+--> MEMBERSHIP IS USE TO CHECK WHETHER A VALUE EXIST INSIDE A SEQUENCE SUCH AS : 
+          """  STRING
+            LIST
+            TUPLE
+            DICTIONARY
+            SET """
+AND RETURN A BOOLEAN RESULT:
+
+----- IT IS USED FOR SEARCHING INSIDE A COLLECTION.-----
+  COMMON MEMBERSHIP OPERATOR--:
+
+        a.IN
+        b.NOT IN 

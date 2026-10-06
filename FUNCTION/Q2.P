@@ -1,0 +1,10 @@
+2. Return Values and Default Values
+Question 2 of 4
+
+Check
+2.1 Practice tasks with return values and default values:
+Write a function greet(name, course="Python") that returns: Hello, {name}, Welcome to {course} class. Call this function once by passing your name only, and another time by passing your name and "Data Science".
+Write a function get_product_remainder(num_1, num_2) that returns product and remainder of two numbers. If num_2 is 0, return "Cannot divide by zero" for the remainder.
+Write a function calculate_discount(price, discount=10) that returns final price after discount.
+Write a function get_circle_area(radius, pi=3.14) that returns area of a circle.
+Write a function add_item(item, item_list=None) that adds item to a list and returns the updated list.

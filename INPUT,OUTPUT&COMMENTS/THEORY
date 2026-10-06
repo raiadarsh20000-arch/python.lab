@@ -1,0 +1,35 @@
+    What is input.?
+    --> input is built in function used to display output on the screen.WE can use print( )to display
+
+        a.Number
+        b.Text
+        c.Variable
+        d.Expression
+2. WHAT IS F STRING.?
+--> F STRING IS USED TO FULLUP THE OUTPUT BY PLACING  VARAIBLE OR EXPRESSION DIRECTLY INSIDE A STRING
+        *** Syntax:f"Text:{Variable}
+    ----RULES TO FOLLOW-----
+    1. WE MUST PLACE F BEFORE  THE STRING
+    2. VARAIBLE OR EXPRESSION ARE WRITTEN INSIDE CURLY BRACKET{}
+
+
+    --> F STRING MAKE OUTPUT EASSER TO UNDERSTAND AND MAKE IT CLEAN
+
+
+    FORMAT SPECIFIERS
+
+     what are format SPECIFIERS.?
+     --> a format SPECIFIER is a short instruction that tells pythons exactly how we want to value to look. it is similar to choosing formatting options in words, such alignment ,space or decimal places.
+
+     decimal formatting.
+     -->it is a format for contoling the number of digits after decimal point.
+     width formatting
+     -->width means the minimum spaxe given to display a value.
+    ALIGNMENNT.
+    --> we can align values using:
+    <
+    >
+    ^
+
+    Fill character.?
+    <!-- --> we can fill the empty spaces with a character. -->

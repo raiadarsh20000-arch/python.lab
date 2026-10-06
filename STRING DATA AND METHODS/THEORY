@@ -1,0 +1,54 @@
+    WHAT IS STRING.?
+    --> STRING IS A DATA TYPE WHICH IS USED TO STORE TEXT DATA SUCH AS WORDS,SENTENCES,NUMBERS WRITTEN AS TEXT OR WORDS,SYMBOLS AND SPACE.
+
+        TYPES OF STRING--:
+        a.'
+        b."" double quotes
+        c."""" Triple quotes for multi-line STRING
+
+2. Escape Character and Special Character.
+-->\
+3.what is indexing
+--> indexing is used to access a single Character from the string. Each Character in a string can be accessed using positive or negative index.
+
+SLICING
+--->slicing: slicing is used to extract a part of a string
+    
+
+    WHAT IS STRING METHODS.?
+    --> STRING METHODS ARE BUILT IN OPERATIONS USED TO WORK WITH TEXT.--:
+    a.change case
+    b.check text
+    c.clean text
+    d.split text
+    e.join text
+    f.search text
+    g.replace text
+    i.count text
+
+    **** string are immutable, string methods usually return a new string instead of changing the original string.
+
+        ---- CASE METHODS.---:
+        CASE METHODS ARE USED TO CHECK OR CHANGE UPPER/LOWER CASE LETTERS.
+
+        ISUPPER()--> 
+        ISLOWER()-->
+        ISTITTLE()--->
+        UPPER()-->
+        TITTLE()--->
+        SWAPCASE()---->
+
+        **** CHECKING METHODS*****
+    DATA CHECKING METHODS CHECK WHAT KIND OF CHARACTERS A STRING CONTAINS.
+    ISALPHA()--->
+    ISDIGIT()--->
+    ISALNUM()--->
+    STARTSWITH()--->
+    ENDSWITH()--->
+
+    **** CLEANUP METHODS****
+    CLEANUP METHODS REMOVE UNNECESSARY FROM A STRING.
+
+    STRIP()---> REOMOVE CHARACTERS FROM BOTH LEFT AND RIGHT SIDE.
+    LSTRIP()--->RMOVES CHARACTERS FROM LEFT  SIDE ONLY
+    RSTRIP()---> REMOVE FROM RIGHT SIDE ONLY
